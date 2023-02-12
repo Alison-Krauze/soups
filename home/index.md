@@ -1,15 +1,9 @@
 ---
-layout: recipeshome
-title: Here is the name of your recipe site
-permalink: "/"
+title: Soups of the world
 coverimage: ../uploads/bookcover.jpg
+permalink: /
+layout: recipeshome
 published: true
+date: 2023-02-12T13:24:19.992Z
 ---
-
-Here is an introduction to my recipe site
-
-You should use **markdown** to write this text and this will automatically be converted to `HTML`.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Welcome to the world of soups! This cookbook is designed to help you explore the wonderful world of soups. From classic favorites like pumpkin soup, to more exotic flavors like spiced carrot & lentil soup, this cookbook has something for everyone. Whether you're a beginner or an experienced chef, you'll find recipes that are easy to follow and delicious. So grab your favorite soup pot and let's get cooking!
