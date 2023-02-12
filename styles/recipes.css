@@ -13,5 +13,41 @@
 }
 
 /* the rest is up to you */
+body{ background-color: rgb(197, 122, 122);}
 
+h1 {
+
+ color: black;
+ padding-top: 30px;
+ margin-bottom: 15px;
+ text-align: center;
+ @import url(https://fonts.googleapis.com/css?family=Playfair+Display);
+  font-family: 'Playfair Display',serif;
+}
+
+h2{color:rgb(59, 11, 10);
+margin: 10px;
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display);
+  font-family: 'Playfair Display',serif;
+}
+
+main{
+ width: 60%;
+ max-width: 850px;
+ border:1px solid rgb(197, 122, 122)ple;
+ padding: 0 12px 0 12px;
+ margin:0 auto;
+background-color: white;}   
+
+ img{
+   width:100%;
+ margin: 15px 0px;
+ }
+  
+
+ul{margin-left: 40px;
+margin-top: 10px;
+}
+li{font-size:.8em;
+margin-bottom: 12px;}
 
