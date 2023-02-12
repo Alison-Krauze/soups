@@ -17,9 +17,9 @@ layout: recipe
 * 150ml double cream or crème fraîche
 * small handful of thyme leaves or snipped chives, to serve
 * drizzle of extra virgin olive oil, to serve (optional)
+*
 
-## \
-Method
+## Method
 
 * Melt the butter in a large saucepan over a medium heat until sizzling, then cook the onions for a few minutes. Stir in the cauliflower and potatoes (if you like, finely chop the cauliflower stem and add this too) to coat in the buttery onions, then cover and cook over a low heat for about 10 mins, stirring once or twice until the veg is softened but not coloured.
 * Pour in the stock and bring to the boil, then add the milk and gently return to the boil. Add the cauliflower leaves, if using, season to taste, then simmer uncovered for 12-15 mins until the vegetables are very soft.
