@@ -1,7 +1,7 @@
 ---
 title: Spiced carrot & lentil soup
 date: 2023-02-12T13:07:18.825Z
-order: -38
+order: 5
 layout: recipe
 ---
 ![Spiced carrot & lentil soup in a bowl on the table surrounded by carrots and greens](../uploads/dall·e-2023-02-12-13.09.27-a-professional-photo-of-spiced-carrot-lentil-soup-for-a-cookbook.png "Spiced carrot & lentil soup")
