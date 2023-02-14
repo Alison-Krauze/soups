@@ -1,7 +1,7 @@
-/*! CSS bare bones for recipes site */
+*! CSS bare bones for recipes site */
 
  html {
-  font-family: sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
@@ -13,7 +13,7 @@
 }
 
 /* the rest is up to you */
-body{ background-color: rgb(197, 122, 122);}
+body{ background-color: rgb(255, 199, 79);}
 
 h1 {
 
@@ -21,20 +21,24 @@ h1 {
  padding-top: 30px;
  margin-bottom: 15px;
  text-align: center;
+ 
+
  @import url(https://fonts.googleapis.com/css?family=Playfair+Display);
-  font-family: 'Playfair Display',serif;
+  font-family: font-family: 'Oswald', sans-serif;
 }
 
-h2{color:rgb(59, 11, 10);
+h2{color:rgb(0, 0, 0);
 margin: 10px;
+text-decoration: none;
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display);
-  font-family: 'Playfair Display',serif;
+  font-family: font-family: 'Oswald', sans-serif;
+
 }
 
 main{
  width: 60%;
  max-width: 850px;
- border:1px solid rgb(197, 122, 122)ple;
+ border:1px solid rgb(255, 199, 122)ple;
  padding: 0 12px 0 12px;
  margin:0 auto;
 background-color: white;}   
@@ -51,3 +55,7 @@ margin-top: 10px;
 li{font-size:.8em;
 margin-bottom: 12px;}
 
+a:link    { color: rgb(0, 0, 0); text-decoration: none; }
+a:visited { color: rgb(0, 0, 0); text-decoration: none; }
+a:hover   { color: rgb(0, 0, 0); text-decoration: none; }
+a:active  { color: rgb(0, 0, 0); text-decoration: none; }
