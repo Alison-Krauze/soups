@@ -1,4 +1,4 @@
-*! CSS bare bones for recipes site */
+/*! CSS bare bones for recipes site */
 
  html {
   font-family: 'Ubuntu', sans-serif;
@@ -41,6 +41,7 @@ main{
  border:1px solid rgb(255, 199, 122)ple;
  padding: 0 12px 0 12px;
  margin:0 auto;
+ padding-bottom: 25px;
 background-color: white;}   
 
  img{
@@ -53,7 +54,8 @@ ul{margin-left: 40px;
 margin-top: 10px;
 }
 li{font-size:.8em;
-margin-bottom: 12px;}
+margin-bottom: 12px;
+;}
 
 a:link    { color: rgb(0, 0, 0); text-decoration: none; }
 a:visited { color: rgb(0, 0, 0); text-decoration: none; }
