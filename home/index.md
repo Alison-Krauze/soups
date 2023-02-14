@@ -1,6 +1,6 @@
 ---
 title: Soups of the world
-coverimage: ../uploads/bookcover.jpg
+coverimage: ../uploads/the-best-soups-of-the-world.jpg
 permalink: /
 layout: recipeshome
 published: true
