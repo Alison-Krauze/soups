@@ -1,10 +1,5 @@
 /*! CSS bare bones for recipes site */
 
-  @import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
-
-  @import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap');
-
-
  html {
   font-family: 'Ubuntu', sans-serif;
   -ms-text-size-adjust: 100%;
@@ -18,17 +13,14 @@
 }
 
 /* the rest is up to you */
-body{ background-color: rgb(255, 199, 79);
-font-family: 'Amatic SC', cursive;
-font-size: 30px;}
+body{ background-color: rgb(255, 199, 79);}
 
 h1 {
 
- color: rgb(0, 0, 0);
+ color: black;
  padding-top: 30px;
  margin-bottom: 15px;
  text-align: center;
- font-family: 'Fredoka One', cursive;
  
 
  @import url(https://fonts.googleapis.com/css?family=Playfair+Display);
@@ -39,49 +31,54 @@ h2{color:rgb(0, 0, 0);
 margin: 10px;
 text-decoration: none;
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display);
-  font-family: 'Fredoka One', cursive;
+  font-family: font-family: 'Oswald', sans-serif;
 
 }
-
-button{ 
-font-family: 'Fredoka One', cursive;
-margin:40px}
 
 main{
- width: 50%;
+ width: 60%;
  max-width: 850px;
  border:1px solid rgb(255, 199, 122)ple;
+ padding: 0 12px 0 12px;
  margin:0 auto;
- padding:8px;
- overflow: auto;
+ padding-bottom: 25px;
 background-color: white;}   
 
-footer {text-align: center;
-background-color: rgb(255, 255, 255);
- color: rgb(102, 33, 4);
-position:fixed;
-bottom:0;
-padding-block: 1px;
-width:100%;
-font-family: 'Fredoka One', cursive;
-}
-
-header{ text-align: center;
-  background-color: rgb(255, 255, 255);
-width:100%
-top:0;
-}
-
  img{
-  border: 4px solid rgb(102, 33, 4);
    width:100%;
  margin: 15px 0px;
  }
   
+ @media screen and (max-width: 700px) {
 
+  nav {
+    margin:0;
+    position: static;
+    width:100%;
+    }
+    
+  nav ul {
+  font-size:1rem;
+  }
+  
+    main {
+    width: 100%;
+    }
+  
+    body {
+    background-color: white;
+    padding-top: 6em;
+  }
+  
+  
+  img {
+    float:none;
+    margin:0 auto;
+    width:100%;
+  }
+  }
 ul{margin-left: 40px;
 margin-top: 10px;
-padding-bottom: 25px;
 }
 li{font-size:.8em;
 margin-bottom: 12px;
@@ -89,5 +86,5 @@ margin-bottom: 12px;
 
 a:link    { color: rgb(0, 0, 0); text-decoration: none; }
 a:visited { color: rgb(0, 0, 0); text-decoration: none; }
-a:hover   { color: rgb(85, 20, 4); text-decoration: none; }
+a:hover   { color: rgb(0, 0, 0); text-decoration: none; }
 a:active  { color: rgb(0, 0, 0); text-decoration: none; }
